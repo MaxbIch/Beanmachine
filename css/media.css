@@ -1,0 +1,2791 @@
+@media screen and (max-width: 1920px) {
+    .vd_preface_section .block-animation .animation{
+        /*width: 40vw;*/
+    }
+}
+
+    @media screen and (min-width: 1801px) {
+
+
+    /* About Page / Preface section CSS */
+
+    .vd_preface_section .bottom-text {
+        /*margin: 1050px 0 0;*/
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -200px;
+    }
+
+
+}
+
+@media screen and (max-width: 1800px) {
+
+
+    /* Home page / Hero section CSS */
+
+    .vd-hero-col {
+        min-height: 93vw;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 190px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 680px;
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -150px;
+    }
+
+    /* Cust WP */
+
+    .vd-cust-col {
+        min-height: 65vw;
+    }
+
+}
+
+@media screen and (max-width: 1620px) {
+
+    /* Home page / Hero section CSS */
+
+    .vd-hero-col {
+        min-height: 95vw;
+    }
+
+
+    /* Home page / About us CSS */
+
+    .vd-stack-planet {
+        left: 0%;
+        width: 70%;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 220px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 610px;
+    }
+
+    /* Inner Page / Project banner section CSS */
+
+    .vd-project-banner-container .row {
+        max-width: 95%;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .vd-container {
+        max-width: 95%;
+    }
+
+    /* Inner Page / Text describing the site success section CSS */
+
+    .vd_website_image_collage_section .vd-container {
+        max-width: 95%;
+    }
+
+    /* Inner Page / That’s where Bean Machine section CSS */
+
+    .single-mobile-screenshot img {
+        height: 600px;
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -35px;
+    }
+    /* Mobile Application */
+
+
+    .vd-mob-top-title h2,
+    .vd-mob-top-title h3{
+        font-size: 52px;
+    }
+    .vd_mob_section {
+        padding: 209px 24px 0;
+    }
+
+    .vd_app_section,
+    .vd_services_section,
+    .vd_design_section,
+    .vd_cust_section,
+    .vd_ill_section,
+    .vd-process-col,
+    .vd-agile-col {
+        padding: 200px 24px 0;
+    }
+
+}
+
+
+@media screen and (max-width: 1400px) {
+
+    /* Inner blog page */
+
+    .vd-main-top-inner-info {
+        padding: 0 39px;
+    }
+
+    /* UI/UX design */
+
+    /*.vd-card-coll-top {*/
+    /*    justify-content: flex-start;*/
+    /*}*/
+    /*.vd-card-coll-bottom {*/
+    /*    justify-content: flex-start;*/
+    /*}*/
+    .vd-card-design-tittle h5, .vd-card-design-tittle h4 {
+        font-size: 28px;
+        max-width: inherit;
+        margin-right: 0;
+    }
+    .vd-card-technology-design-tittle {
+        font-size: 28px;
+    }
+    .vd-single-card {
+        max-width: 28.5%;
+        font-weight: 300;
+        font-size: 28px;
+    }
+    .vd-card-mobile-coll {
+        justify-content: center;
+        padding: 0px;
+    }
+    .vd-single-mob-card:last-child {
+        max-width: 60%;
+    }
+    .wp-card .vd-card-design-tittle h5, .vd-card-design-tittle h4 {
+        font-size: 36px;
+    }
+
+    /* Cust WP */
+
+    .vd-cust-col {
+        min-height: 70vw;
+    }
+    .
+}
+
+
+@media screen and (max-width: 1380px) {
+
+    br {
+        display: none;
+    }
+    .vd_about_us_section br {
+        display: flex;
+    }
+    /* Home page / Hero section CSS */
+
+    .vd_home_hero_section {
+        padding: 300px 15px 0;
+    }
+    .vd-hero-col {
+        min-height: 105vw;
+    }
+
+    /* Home page / About us CSS */
+
+    .vd-planet-wrap {
+        min-height: 730px;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 240px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 500px;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .purple-text-200 {
+        margin: 20% auto 0;
+        max-width: 480px;
+    }
+
+    /* Inner Page / First slider section CSS */
+
+    .first_slider_section .vd-container {
+        padding: 150px 24px 0;
+    }
+
+    /* Inner Page / That’s where Bean Machine section CSS */
+
+    .single-mobile-screenshot img {
+        height: 500px;
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -30px;
+        top: 30px;
+        max-width: 68%;
+    }
+
+}
+
+@media screen and (max-width: 1280px) {
+
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 250px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 400px;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .vd-container {
+        padding-top: 140px;
+    }
+
+    /* Inner Page / That’s where Bean Machine section CSS */
+
+    .single-mobile-screenshot img {
+        height: 550px;
+    }
+    .single-mobile-screenshot {
+        margin-left: 60px;
+    }
+
+    /*blog page top section*/
+
+    /* Mobile Application */
+    .vd_mob_section {
+        background-position: bottom center;
+    }
+    .vd-dmob-col {
+        min-height: 57vw;
+    }
+
+}
+
+@media screen and (max-width: 1199px) {
+
+    /* Footer CSS */
+
+    footer .vd-top-footer-row .col-12 {
+        padding: 0 26px;
+    }
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-project {
+        min-height: 580px;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet {
+        padding-top: 265px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 325px;
+    }
+    .vd-our-team-and-partners-container {
+        padding-top: 80px;
+    }
+
+    /* Look Book page / Look Book slider section */
+
+    .vd-featured-projects-container .featured-projects-box {
+        margin-left: 60px;
+    }
+
+    /* Inner Page / First slider section CSS */
+
+    .single-slide-img {
+        max-width: 75vw;
+        margin-left: 60px;
+    }
+
+    /* Inner Page / Last text section CSS */
+
+    .last-text-container {
+        padding-top: 200px;
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -25px;
+        top: 0px;
+    }
+    .blog-bottom-text {
+        padding: 36px;
+    }
+    .blog-bottom-link {
+        padding: 0 0 36px 36px;
+    }
+    .vd-stack-planet lottie-player {
+        width: 100%!important;
+        height: auto!important;
+    }
+
+     /* UI/UX design */
+
+    .vd-step-cont-description {
+        margin-left: 70px;
+        font-size: 22px;
+        line-height: 40px;
+    }
+
+    .sky_cont_img_ui {
+        width: 400px;
+    }
+    .vd-ui-desc {
+        max-width: 500px;
+    }
+
+    .vd-guide-col {
+        background-size: 400px;
+    }
+    /* Cust WP */
+
+    .vd-cust-col {
+        min-height: 80vw;
+    }
+
+}
+
+@media screen and (max-width: 1100px) {
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-project {
+        min-height: 560px;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 275px;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 260px;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .vd-container {
+        padding-top: 90px;
+    }
+
+    /* Temporary changes */
+
+    .planet-for-blog {
+        right: -25px;
+        top: 0px;
+    }
+    .blog-bottom-text {
+        max-width: 715px;
+        padding: 18px;
+    }
+    .blog-bottom-link {
+        padding: 0 0 18px 18px;
+    }
+
+
+}
+
+@media screen and (max-width: 1024px) {
+
+    /* Main CSS */
+
+    h1,
+    .fake_h1 {
+        font-size: 64px;
+    }
+    h2,
+    .fake_h2 {
+        font-size: 52px;
+    }
+    h3,
+    .fake_h3 {
+        font-size: 46px;
+    }
+    h5,
+    .fake_h5 {
+        font-size: 26px;
+    }
+    p {
+        font-size: 18px;
+    }
+
+    /* Footer CSS */
+
+    .vd-top-footer-row {
+        padding: 0 15px;
+        margin-bottom: 60px;
+    }
+    .vd-foot-site-info,
+    .vd-foot-menu {
+        padding: 0 15px 0 60px;
+    }
+
+
+    /* Home page / Hero section CSS */
+
+    .vd_home_hero_section {
+        padding: 200px 15px 0;
+    }
+
+
+    /* Home page / Short description CSS */
+
+    .vd_short_description_section {
+        padding: 90px 15px;
+    }
+
+
+    /* Home page / Our Stack CSS */
+
+    .vd_our_stack_section {
+        padding: 90px 0;
+    }
+    .vd_our_stack_section h3 {
+        text-align: center;
+    }
+    .vd-technology-col {
+        text-align: center;
+    }
+    .vd-technology-sub {
+        margin-bottom: 48px;
+    }
+
+
+    /* Home page / About us CSS */
+
+    .vd_about_us_section h3 {
+        margin-bottom: 80px;
+        max-width: none;
+    }
+    .vd-logos-wrap {
+        margin: 80px auto 0;
+    }
+    .vd-planet-row {
+        padding: 150px 0 0 0;
+    }
+    .vd-stack-planet {
+        left: 5%;
+    }
+    .vd_about_us_section {
+        padding: 20px 0 60px;
+    }
+    .vd-logos-wrap .vd-logo-img {
+        width: 32%;
+    }
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd_our_team_and_partners_section .row-our-partners {
+        margin-top: 200px;
+    }
+    .managers-info {
+        height: 140px;
+        margin-top: 60px;
+    }
+    .managers-info .managers-name {
+        width: 135px;
+        margin: 0 auto;
+    }
+    .managers-info .manager-position {
+        text-align: left;
+        width: 135px;
+        margin: 0 auto;
+    }
+    .another-manager .managers-name {
+        width: 180px;
+        margin: 0 auto;
+    }
+    .bottom-section-description-motto {
+        margin: 130px 0 0 70px;
+    }
+    /* Temporary changes */
+
+    .planet-for-blog {
+        top: -60px;
+    }
+    .blog-bottom-text {
+        max-width: 600px;
+        padding: 18px;
+    }
+    .blog-bottom-link {
+        padding: 0 0 18px 18px;
+    }
+    .blog-our-philosophy-section {
+        padding-top: 150px;
+    }
+    .vd-recipe-row {
+        padding-top: 0px;
+    }
+    .latest-articles {
+        padding-top: 50px;
+    }
+    .vd-archive .vd-recipe-row h3 {
+        padding-bottom: 40px;
+    }
+    .vd-archive .post_wrap {
+        margin-bottom: 100px;
+    }
+    .vd-archive .post_wrap_left {
+        margin-top: -100px;
+    }
+    /*Contact top*/
+
+    .vd-top-description {
+        max-width: 643px;
+    }
+    .vd_cont_top_section h2 {
+        padding: 180px 0 0 0;
+    }
+
+    /*blog-top-section*/
+    .row.blog-top{
+        display: block;
+    }
+    .blog-recent-title {
+        font-size: 40px;
+        margin: 0px 0 0 32px;
+        padding-top: 40px;
+    }
+    .blog-top-right-part {
+        max-width: 100%;
+    }
+    .blog-top-left-part {
+        max-width: 100%;
+    }
+    .blog-short-description p {
+        margin: 12px 25px 0 32px;
+    }
+    .blog-identify-list {
+        padding: 36px 0 24px 32px !important;
+    }
+    .blog-bottom-featured-info {
+        margin: 20px 0 32px 32px;
+    }
+    .vd-archive .vd-category-menu {
+        margin-bottom: 60px;
+        display: block;
+    }
+    .vd-archive .vd-category-menu .menu {
+        padding-inline-start: 0px;
+        list-style: none;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        font-size: 14px;
+        position: unset;
+        margin-top: 12px;
+    }
+
+
+    /* Single Post */
+
+    .blog_common_section_banner_title {
+        max-width: 800px;
+        font-size: 50px;
+    }
+    .inner-main_content_section h5 {
+        font-size: 24px;
+        padding: 32px 36px 24px 36px;
+    }
+    .inner-content-section-bold-desc,
+    .inner-main_content_section h1,
+    .inner-main_content_section h2,
+    .inner-main_content_section h3,
+    .inner-main_content_section h4,
+    .inner-main_content_section h5,
+    .inner-main_content_section p {
+        padding: 0 36px 16px 36px;
+    }
+    .inner-content-section-bold-desc {
+        padding-bottom: 40px;
+    }
+    .inner-main_content_section ul {
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .inner_content_section_bold {
+        margin: 48px 36px 48px 36px;
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .single-post footer .vd-container {
+        margin-top: -585px;
+    }
+    /* Agile Methodology page */
+
+    .vd-agile-description {
+        font-size: 18px;
+    }
+    .vd-agile-title h1, .vd-agile-title h2, .vd-agile-title h3 {
+        font-weight: 300;
+        color: #FFFFFF;
+        line-height: 40px;
+    }
+    .agile-main-gif {
+        margin-top: 85px;
+    }
+    .vd-agile-col {
+        padding: 153px 24px 0;
+    }
+    .vd-agile-title-cont{
+        margin-top: 12px;
+    }
+    .vd-agile-cont-col_one{
+        padding-top: 70px;
+    }
+
+    .vd-agile-cont-col_one,
+    .vd-agile-cont-col_two,
+    .vd-agile-cont-col_three {
+        padding-bottom: 70px;
+    }
+    .vd-agile-cont-col_four {
+        padding-bottom: 140px;
+    }
+    .vd-agile-cont-description {
+        float: left;
+    }
+
+    /*Our process*/
+
+    .guide-active {
+        bottom: 0;
+        max-width: 300px;
+        top: unset;
+    }
+    .vd-guide-col {
+        margin: 0 auto 200px;
+    }
+    .vd-guide-title {
+        /*font-size: 52px;*/
+        margin-left: 24px;
+        margin-top: 48px;
+        max-width: 680px;
+        line-height: 56px;
+    }
+    .guide-btn {
+        margin-left: 24px;
+        margin-top: 12px;
+    }
+    .vd-process-cont {
+        float: left;
+    }
+    .process-btn {
+        float: left;
+    }
+    .vd-process-col {
+        height: 125vw;
+    }
+
+    /* Services */
+
+    .vd-technology-services-link {
+        margin: 16px 0 72px 0;
+    }
+    .vd_services_section {
+        padding: 144px 24px 0;
+    }
+    .vd-services-title h3, .vd-services-title h4 {
+        line-height: 56px;
+    }
+    /* Mobile */
+    .vd-single-design.vd-decription-to-right .vd-technology-design-sub {
+        margin: 0 0 0 41px;
+    }
+    .vd-ui-title-cont p {
+        font-size: 48px;
+    }
+    /*.vd-ui-desc {*/
+    /*    margin-left: 24px;*/
+    /*}*/
+    /*  Card  */
+
+    .team-card .vd-card-ill-tittle h5, .vd-card-design-tittle h4 {
+        margin-right: 80px;
+    }
+
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+    /* Header CSS */
+    .active-line .dividing-line {
+        display: none;
+    }
+    .navBur {
+        display: flex;
+    }
+    .vd-mob-close {
+        display: none!important;
+    }
+    header .vd-main-header-logo {
+        margin: 0 auto 0 0;
+        max-height: 35px;
+    }
+    .nav_bar {
+        padding: 12px 0;
+    }
+    .nav_bar ul a {
+        line-height: 32px;
+    }
+    .nav_bar ul li:hover a:before,
+    .nav_bar ul li.current_page_item a:before {
+        display: none;
+    }
+    .vd-head-row .vd-head-col:last-child ul li:last-child {
+        margin-top: auto;
+        margin-bottom: 24px;
+        width: 100%;
+    }
+    .vd-head-row .vd-head-col:last-child ul li:last-child a {
+        margin: 24px 24px 0;
+        text-align: center;
+    }
+
+
+    /* Mobile hamburger CSS */
+
+    .vd-mob-header-list .menu-item-has-children {
+        position: relative;
+    }
+    .vd-mob-header-list .menu-item-has-children:before {
+        content: '';
+        position: absolute;
+        width: 12px;
+        height: 6px;
+        right: 8px;
+        top: 25px;
+        background-image: url("../image/mob_drop.svg");
+        background-size: cover;
+        transition: transform .2s linear;
+        -webkit-transform:rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    .vd-mob-header-list .menu-item-has-children:hover:before {
+        -webkit-transform:rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+        transition: transform .2s linear;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu {
+        position: relative;
+        padding: 0 0!important;
+        flex-direction: column;
+        background-color: transparent;
+    }
+    .vd-head-row .vd-head-col:last-child .menu-item-has-children ul.sub-menu li:last-child {
+        position: relative;
+        display: flex;
+        bottom: auto;
+    }
+    .vd-head-row .vd-head-col:last-child .menu-item-has-children ul.sub-menu li:last-child .menu-image-title {
+        display: flex;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li {
+        width: 100%;
+        padding: 0 0 0 0;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li a {
+        display: block;
+        padding: 8px 32px;
+
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li:hover {
+        background-color: transparent;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li a .menu-image-title{
+        font-size: 12px;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li a span.sub {
+        font-size: 12px;
+        max-width: unset;
+        padding-left: 50px;
+        padding-top: 0px;
+    }
+    .vd-mob-header-list .menu-item-has-children .sub-menu li a img.menu-image {
+        padding-bottom: 0;
+        margin-top: 20px;
+    }
+    .vd-head-row .vd-head-col:last-child .menu-item-has-children ul.sub-menu li:last-child a {
+        background-color: transparent;
+        margin: 0 0 0 0;
+        padding: 12px 32px;
+    }
+
+
+    /* Home Page / Our Latest Projects CSS */
+
+    /*.our-project {*/
+    /*    min-height: 500px;*/
+    /*}*/
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 340px;
+    }
+
+    /* Look Book page / Our projects description section */
+
+    .vd-featured-projects-container .featured-projects-box {
+        max-width: 710px;
+    }
+    .featured-project-description {
+        max-width: 445px;
+    }
+
+    /* Contact Page / Contact form section */
+
+    .vd-container.vd-contact-form-container {
+        width: 95%;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .purple-text-200 {
+        margin: 15% auto 0;
+        max-width: 450px;
+    }
+
+    /* Inner Page / First slider section CSS */
+
+    .first_slider_section .vd-container {
+        padding: 100px 24px 0;
+    }
+    .first_slider_section .vd-container .text-first-slider-row {
+        margin: 0 auto 64px;
+    }
+    .description-second-slider p br {
+        display: none;
+    }
+    .vd_about_us_section br {
+        display: flex;
+    }
+
+    /* Inner Page / Last text section CSS */
+
+    .last-text-container {
+        padding-top: 150px;
+    }
+
+    /* Temporary changes */
+
+    .blog-our-philosophy-section {
+        padding-top: 100px;
+    }
+    .planet-for-blog {
+        top: 0;
+        right: -19px;
+        max-width: 68%;
+    }
+    .blog-bottom-text {
+        max-width: 495px;
+        padding: 18px 0;
+    }
+    .blog-bottom-link {
+        padding: 0 0 18px;
+    }
+    /*Contact top*/
+
+    .vd_cont_top_section h2 {
+        padding: 100px 0 0 0;
+    }
+
+    /*blog category*/
+    .vd-archive .vd-category-menu .menu {
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
+    ul#menu-category::-webkit-scrollbar {
+        display: none;
+    }
+    .vd-archive .vd-category-menu .menu li {
+        margin: 5px 9px;
+    }
+
+    /*Look Book*/
+
+
+    /*Our process*/
+
+    .vd-process-cont {
+        float: left;
+        margin-top: 0;
+    }
+    .process-btn {
+        float: left;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+    .vd-design-description {
+        font-size: 18px;
+        color: #A7A7A7;
+        margin-bottom: 0px;
+    }
+    .vd-card-design-tittle h5 {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 32px;
+        color: #FFFFFF;
+        margin-right: unset;
+        max-width: 270px;
+        margin-bottom: 24px;
+    }
+    .vd-single-card {
+        max-width: 25%;
+        margin: 8px;
+    }
+    .vd-single-card {
+        padding: 16px;
+    }
+    .UX-cards .vd-single-card {
+        padding: 16px;
+    }
+    .vd-card-technology-design-tittle {
+        font-size: 21px;
+    }
+    .UX-cards .vd-card-coll-top .vd-card-technology-design-tittle {
+        padding-top: 16px;
+    }
+    .vd-ill-desc {
+        margin: 16px 0 350px 72px;
+    }
+    .mobile_app_card .vd-single-card {
+        max-width: 29%;
+    }
+    .vd-single-mob-card:last-child {
+        max-width: 60%;
+    }
+    .mobile_app_card .vd-card-design-tittle h5 {
+        max-width: initial;
+        margin-bottom: 0;
+    }
+    .wp-card .vd-card-design-tittle h5, .vd-card-design-tittle h4 {
+        margin-right: 70px;
+        font-size: 24px;
+    }
+    .team-card .vd-card-ill-tittle {
+        padding-top: 65px;
+    }
+    .team-card .vd-card-ill-tittle h5, .vd-card-design-tittle h4 {
+        margin-bottom: 0;
+        margin-right: 100px;
+    }
+
+
+    /* Mobile Application */
+
+    .vd-dmob-col {
+        min-height: 100vw;
+    }
+
+}
+
+@media screen and (max-width: 820px) {
+
+    /* Single Post */
+
+    .vd-footer-singele-bg,
+    .vd-footer-singele-bg img {
+        min-height: 690px;
+    }
+    /* UI/UX design */
+
+    .vd-step-cont-description {
+        margin-left: 60px;
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    .sky_cont_img_ui {
+        width: 300px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    /* Main CSS */
+
+    h1,
+    .fake_h1 {
+        font-size: 42px;
+    }
+    h2,
+    .fake_h2 {
+        font-size: 34px;
+    }
+    h3,
+    .fake_h3 {
+        font-size: 32px;
+    }
+    h4,
+    .fake_h4 {
+        font-size: 24px;
+    }
+    h5,
+    .fake_h5 {
+        font-size: 20px;
+    }
+    .vd-primary {
+        font-size: 16px;
+    }
+    div {
+        font-size: 16px;
+    }
+    p {
+        font-size: 16px;
+    }
+    br{
+        display: none;
+    }
+    .vd_about_us_section br {
+        display: flex;
+    }
+
+    .vd-destinations-2 br {
+        display: none !important;
+    }
+
+
+
+    /* Footer CSS */
+
+    footer .vd-container {
+        margin-top: -700px;
+    }
+    footer .fake_h1 {
+        margin-bottom: 32px;
+    }
+    .vd-top-footer-row {
+        margin: 0 0 48px 0;
+    }
+    .vd-main-footer-row {
+        padding-top: 24px;
+    }
+    .vd-foot-site-info,
+    .vd-foot-menu {
+        padding: 0 24px;
+    }
+    .vd-foot-site-info {
+        margin-bottom: 48px;
+    }
+    .vd-site-description {
+        max-width: none;
+        line-height: 24px;
+        font-size: 17px;
+    }
+    footer .vd-main-header-logo {
+        max-height: 42px;
+        max-width: 160px;
+    }
+    .vd-copyright {
+        font-size: 14px;
+        margin: 16px 1px;
+        padding: 16px 8px;
+    }
+    footer .vd-foot-menu ul li {
+        margin-bottom: 8px;
+    }
+    footer .vd-foot-menu ul {
+        margin-bottom: 20px;
+    }
+    footer .vd-foot-menu li a {
+        font-size: 14px;
+    }
+    footer .vd-top-footer-row .col-12 {
+        padding: 0 0 0 9px;
+    }
+
+
+    /* Home page / Hero section CSS */
+
+    .vd_home_hero_section {
+        padding: 142px 15px 0;
+        background-color: #130c5c;
+        background-image: url(../image/mob_hero.png);
+    }
+    .vd_home_hero_section h2 {
+        margin: 0 auto 16px;
+    }
+    .vd-hero-description {
+        margin-bottom: 32px;
+    }
+    .vd-hero-col a {
+        margin-bottom: 25px;
+    }
+    .vd-hero-col {
+        min-height: 145vw;
+    }
+    .vd-hero-description {
+        font-size: 16px;
+    }
+
+
+    /* Home page / Short description CSS */
+
+    .vd_short_description_section {
+        padding: 47px 24px;
+    }
+    .vd-short-description, .vd-short-description p {
+        font-size: 16px;
+    }
+
+
+    /* Home page / Our Stack CSS */
+
+    .vd_our_stack_section {
+        padding: 40px 0;
+    }
+    .vd_our_stack_section h3 {
+        margin-bottom: 40px;
+    }
+    .vd-technology-img {
+        margin-bottom: 16px;
+    }
+    .vd_our_stack_section h5 {
+        margin-bottom: 2px;
+    }
+    .vd-technology-sub {
+        font-size: 18px;
+    }
+    .vd-desktop-ufo {
+        display: none;
+    }
+    .vd-mob-ufo {
+        display: block;
+        margin-top: 28px;
+    }
+
+
+    /* Home page / About us CSS */
+
+    .vd_about_us_section h3 {
+        text-align: left;
+        padding: 0 10px;
+        margin-bottom: 40px;
+    }
+    .vd-destinations-0,
+    .vd-destinations-1 {
+        max-width: none;
+    }
+    .vd-destinations-0 .vd-destinations-box,
+    .vd-destinations-1 .vd-destinations-box,
+    .vd-destinations-2 .vd-destinations-box {
+        min-height: 343px;
+    }
+    .vd-destinations-box {
+        padding: 48px 24px 24px;
+    }
+    .vd-destinations-description,
+    .vd-destinations-description p {
+        font-size: 14px !important;
+    }
+    .vd-destinations-box a.vd-circle-btn {
+        position: absolute;
+        right: 24px;
+        bottom: 24px;
+    }
+    .vd-destinations-2 .vd-destinations-box:before {
+        display: none;
+    }
+    .vd-destinations-2 .vd-destinations-box {
+        background-image: url("../image/mob_cat.png");
+    }
+    .vd-logos-wrap .vd-logo-img {
+        width: 49%;
+        margin-bottom: 47px;
+        max-height: 45px;
+    }
+    .vd-logos-wrap {
+        margin: 57px auto 0;
+    }
+    .vd-planet-row {
+        padding: 80px 0 0 0;
+    }
+    .vd-planet-description,
+    .vd-planet-description p {
+        max-width: none;
+        font-size: 16px;
+    }
+    .vd-planet-description {
+        padding: 0 10px;
+    }
+    .vd-stack-planet {
+        width: 90%;
+        position: relative;
+        margin-top: 80px;
+    }
+    .vd-planet-wrap {
+        min-height: auto;
+    }
+    .vd-destinations-description {
+        max-width: 192px;
+    }
+
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-philosophy-info {
+        flex-direction: column;
+        padding-top: 95px;
+    }
+    .our-latest-projects {
+        padding: 0 15px;
+    }
+    .our-project-title {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .our-project-title h3 {
+         text-align: center;
+     }
+    .our-projects {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .our-project {
+        max-width: 100%;
+        min-height: 670px;
+        margin: 0 auto 32px;
+    }
+    .our-project-title {
+        min-height: 200px;
+    }
+    .our-project-dscrptn img {
+        width: 100%;
+    }
+    .vd_our_latest_projects {
+        padding: 45px 0;
+    }
+
+
+    /* Home Page / Our philosophy CSS */
+
+    .our-philosophy-info {
+        flex-direction: column;
+        padding-top: 95px;
+    }
+    .our-philosophy-dscrptn {
+        margin: 24px 0 32px;
+    }
+    .vd_our_philosophy .planet.planet_desktop {
+        display: none!important;
+    }
+    .vd_our_philosophy .planet.planet_mobile {
+        display: block!important;
+    }
+    .our-philosophy-title h3 {
+        margin-bottom: 0;
+    }
+
+
+    /* About Page / Preface CSS */
+
+    .vd-preface-container {
+        padding-top: 172px;
+    }
+    .vd-preface-top-row {
+    flex-direction: column;
+    }
+    .vd_preface_section .block-animation {
+        max-width: 95vw;
+        margin: 5% auto;
+    }
+    .vd_preface_section .block-animation .animation {
+        width: 100%;
+    }
+    .vd_preface_section .vd-preface-bottom-row {
+    flex-direction: column-reverse;
+    margin: 0 auto 0;
+    }
+    .vd_preface_section .vd-preface-text {
+        max-width: 100%;
+        /*padding: 0 24px;*/
+    }
+    .vd-preface-top-row {
+        padding-bottom: 0;
+    }
+    .vd-preface-bottom-row {
+        padding-bottom: 0;
+    }
+    .vd_preface_section .top-preface-text {
+        margin-bottom: 32px;
+    }
+    .vd_preface_section .bottom-text {
+        /*margin: 15px 0 80px;*/
+    }
+    .vd_preface_section .bckgrnd-preface {
+        height: 110%;
+        object-fit: cover;
+    }
+
+
+    /* About Page / Our team and partners section CSS */
+
+    .vd-our-team-and-partners-container {
+        padding-top: 200px;
+    }
+    .vd-our-team-and-partners-container .row-our-team {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .vd-our-team-and-partners-container .row-our-team .col-6 {
+        max-width: 100%;
+    }
+    .sky-our-team-and-partners {
+        object-fit: cover;
+    }
+    .vd_our_team_and_partners_section .planet-our-team-and-partners {
+        position: relative;
+        top: 0;
+    }
+    .vd-our-team-and-partners-container .row-our-partners {
+        flex-direction: column;
+        padding-bottom: 660px;
+        margin-top: 0;
+    }
+    .vd-our-team-and-partners-container .row-our-partners .col-6 {
+        max-width: 100%;
+    }
+    .vd-our-team-and-partners-container .managers-info {
+        margin: 48px auto 0;
+    }
+    .first-manager .managers-name,
+    .first-manager .manager-position {
+        width: 100px;
+    }
+    .another-manager .managers-name {
+        width: 135px;
+    }
+    .bottom-section-description-motto .bottom-section-description p {
+        font-size: 14px !important;
+    }
+    .vd-our-team-and-partners-container .bottom-section-description-motto {
+        margin: 48px auto;
+    }
+    .vd-our-team-and-partners-container .our-motto p {
+        font-size: 20px !important;
+        margin: 0;
+        padding: 0 0 0 24px;
+    }
+
+    /* Look Book page / Our projects description section */
+
+    .vd-lookbool-our-projects-description-container {
+        padding: 175px 24px 31px;
+    }
+    .lookbool-our-projects-description-row-top {
+        margin-bottom: 16px;
+    }
+    .lookbool-our-projects-description-row-bottom {
+        flex-direction: column-reverse;
+    }
+    .spaceship-lookbook-col {
+        position: relative;
+        max-width: 100%;
+        padding: 0;
+        z-index: 5;
+    }
+    .spaceship-lookbook-col .spaceship-lookbook {
+        padding-left: 54%;
+    }
+    .lookbool-description-col {
+        max-width: 100%;
+        padding: 0 0 20px;
+    }
+    .lookbool-our-projects-description-row-bottom .lookbool-description-col .purple-text {
+        margin-bottom: 32px;
+    }
+    .lookbool-our-projects-description-row-bottom .purple-text p {
+        font-size: 15px !important;
+    }
+    /* Look Book page / Look Book our latest projects section */
+
+    .vd_section.vd_our_latest_projects.vd_look_book_our_latest_projects {
+        padding: 80px 0 0;
+    }
+
+    /* Look Book page / Look Book slider section */
+
+    .vd-featured-projects-container {
+        max-width: 1824px;
+        width: 95vw;
+        padding: 80px 0 120px;
+    }
+    .featured-projects-row {
+        padding-top: 48px;
+    }
+
+    .sky-featured-projects {
+        display: none;
+    }
+    .sky-lookbook-slider-mobile {
+        display: block;
+
+    }
+    .vd-featured-projects-container .featured-projects-box {
+        max-width: 311px;
+        min-height: 540px;
+        flex-direction: column;
+    }
+    .featured-project-description {
+        border-radius: 16px 16px 40px 0;
+    }
+    .number-featured-project {
+        padding: 24px 0 16px 16px;
+    }
+    .title-featured-project {
+        padding: 0 0 8px 16px;
+    }
+    .dscrpn-featured-project {
+        padding: 0 0 20px 16px;
+    }
+    .technology-featured-project {
+        padding: 0 10px 44px 0px;
+    }
+    .technology-featured-project div {
+    margin: 0 0 10px 12px;
+    }
+    .links-featured-project {
+        padding: 0 0 24px 16px;
+    }
+    .first-link-featured-project .vd-primary {
+        padding: 8px 20px;
+    }
+    .second-link-featured-project {
+        margin-left: 16px;
+    }
+    .second-link-featured-project .arr-blue {
+        min-width: 9px;
+        height: 9px;
+        margin-left: 9.6px;
+    }
+    .featured-projects-illustration {
+        bottom: 0;
+        height: 49%;
+        border-radius: 16px;
+    }
+    .featured-projects-illustration img {
+        border-radius: 16px;
+        object-fit: cover;
+    }
+
+
+    /* Contact Page / Contact form section */
+
+    .contact_title {
+        padding: 40px 0 16px 0;
+    }
+    .contact_email, .contact_phone, .contact_subtitle {
+        font-size: 18px;
+    }
+    .contact_footer.fake_footer {
+        min-height: 600px;
+    }
+
+    /*Contact Page / desc*/
+
+    .vd-top-description{
+        font-size: 18px;
+    }
+
+    /* Inner Page */
+
+    .vd_website_image_collage_section .vd-container {
+        padding-top: 80px;
+    }
+
+    /* Inner Page / Project banner section CSS */
+
+    .vd-project-banner-container {
+        padding-top: 125px;
+    }
+    .vd_project_banner_section .vd-project-banner-container .row-short-dscrptn {
+        flex-direction: column;
+        padding-bottom: 56px;
+    }
+    .vd-project-banner-container .row.row-back-btn {
+        padding-bottom: 30px;
+    }
+    .short-dscrptn {
+        padding-bottom: 56px;
+    }
+    .vd-project-banner-container .link-site {
+        margin: 0;
+    }
+    .vd_project_banner_section .client-info-container {
+        padding-top: 80px;
+    }
+    .info-container-left,
+    .info-container-right {
+        margin: 0 auto 0 24px;
+    }
+    .single-projects .vd-container .row-site-text {
+        padding-bottom: 16px;
+    }
+    .back-link a:before {
+        top: 3px;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .vd-container {
+        padding-top: 10px;
+    }
+    .vd_website_description_with_first_collage_section .row {
+        flex-direction: column;
+    }
+    .vd_website_description_with_first_collage_section .col-5,
+    .vd_website_description_with_first_collage_section .col-7,
+    .vd_website_description_with_first_collage_section .col-12 {
+        max-width: 81%;
+        margin: 0 auto;
+        padding: 0 0 16px;
+    }
+    .vd_website_description_with_first_collage_section .purple-text-200 {
+        margin: 0 auto;
+    }
+    .vd_website_description_with_first_collage_section .purple-text-200 p {
+        font-size: 16px;
+    }
+
+    /* Inner Page / Text describing the site success section CSS */
+
+    .vd_text_describing_site_success_section .vd-container {
+        padding-top: 48px;
+    }
+    .vd_text_describing_site_success_section .central-row {
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    .vd_text_describing_site_success_section .central-row .col-6 {
+        max-width: 100%;
+        flex: none;
+    }
+    .vd_text_describing_site_success_section .central-row .purple-text-200 {
+        max-width: 100%;
+    }
+    .vd_text_describing_site_success_section .central-row .purple-text-200 p,
+    .vd_text_describing_site_success_section .top-text-describing-site-success p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    /* Inner Page / Text describing the site success section CSS */
+
+    .vd_website_image_collage_section .row {
+        flex-direction: column;
+    }
+    .vd_website_image_collage_section .img-col {
+        width: fit-content;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 0 16px;
+    }
+    .vd_website_image_collage_section .col-12 img {
+        min-height: 250px;
+    }
+
+    /* Inner Page / First slider section CSS */
+
+    .single-slide-img {
+        margin-left: 23px;
+    }
+    .first_slider_section .vd-container {
+        padding: 64px 24px 0;
+    }
+    .first_slider_section .vd-container .text-first-slider-row {
+        margin: 0 auto 32px;
+    }
+    .title-first-slider {
+        padding-bottom: 10px;
+    }
+    .first-slider-container {
+        padding-bottom: 60px;
+    }
+    .first-slider-container ul,
+    .second-slider-container ul {
+        bottom: -45px;
+    }
+
+    /* Inner Page / Second slider section CSS */
+
+    .single-mobile-screenshot img {
+        height: 500px;
+    }
+    section.vd_inner_section .row.text-second-slider {
+        flex-direction: column;
+        padding: 70px 0 40px;
+    }
+    section.vd_inner_section .row.text-second-slider .col-6 {
+        max-width: 100%;
+        padding: 0 24px;
+    }
+    .vd_thats_where_bean_machine_slider_section .second-slider-container {
+        padding-bottom: 35px;
+    }
+
+    /* Inner Page / Last text section CSS */
+
+    .last-text-container {
+        padding-top: 80px;
+    }
+    .last-text-question {
+        margin-left: 20%;
+    }
+    .last-text-row {
+        padding-top: 30px;
+    }
+
+    /* Inner Page / Next project section CSS */
+
+    .link-next-project a:before {
+        top: 5px;
+        right: -20px;
+    }
+    .vd_inner_section .vd-container.next-project-container {
+        padding: 80px 0;
+    }
+
+    /* Temporary changes */
+
+    .vd-archive .vd_all_blog_section {
+        flex-direction: column;
+    }
+    .vd-archive .post_wrap {
+        max-width: 100%;
+        margin-bottom: 45px;
+    }
+    .vd-archive .post_wrap.post_wrap_left {
+        max-width: 100%;
+        margin: 0 0 45px auto;
+    }
+
+
+    /* Fake footer */
+
+    .contact_footer .cont-bot {
+        object-fit: cover;
+    }
+    .inner_footer.fake_footer {
+        min-height: 590px;
+    }
+
+
+    /*single post*/
+
+    .blog_common_section_banner_title {
+        font-size: 50px;
+    }
+    .inner-main_content_section h5 {
+        font-size: 24px;
+        padding: 32px 24px 24px 24px;
+    }
+    .inner-main_content_section h1,
+    .inner-main_content_section h2,
+    .inner-main_content_section h3,
+    .inner-main_content_section h4,
+    .inner-main_content_section h5,
+    .inner-main_content_section p {
+        padding: 0 24px 16px 24px;
+    }
+    .inner-main_content_section ul {
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .inner_content_section_bold {
+        padding: 32px 24px 34px 24px;
+        margin: 56px 24px 56px 24px;
+        font-size: 20px;
+        line-height: 30px;
+
+    }
+    /*Blog Page / second gif*/
+    .vd_preface_section .block-animation .animation#gif2{
+        display: none !important;
+    }
+
+    /* Agile */
+
+
+    .vd-agile-cont-col p {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        /*color: #A7A7A7;*/
+    }
+    .vd-agile-cont-description ol li h5, .vd-agile-cont-description ol li h4, .vd-step-cont-description {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .vd-guide-title {
+        max-width: 400px;
+        line-height: 42px;
+    }
+    .vd-guide-col {
+        margin: 0 auto 150px;
+    }
+
+    /* UI/UX Design */
+    .vd_design_section {
+        padding: 172px 24px 0;
+    }
+    .vd_design_cont {
+        padding-bottom: 90px;
+    }
+
+    /*Our process*/
+
+    .vd-process-col {
+        padding: 140px 15px 0;
+    }
+    .col-12.vd-process-col h2 {
+        font-size: 32px;
+    }
+    .dropdown-cont-title {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 32px;
+        color: #E9E4FE;
+        max-width: 240px;
+        margin-top: 8px;
+    }
+    .vd-process-cont p {
+        font-size: 14px;
+    }
+    .vd_drop_section {
+        padding: 0 0px;
+    }
+    .dropdown-title {
+        display: block;
+        padding-bottom: 24px;
+    }
+    .vd-drop-desc {
+        right: unset;
+        position: relative;
+        max-width: 315px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #E9E4FE;
+    }
+    .dropdown-cont-active .dropdown-cont-open {
+        display: block;
+        max-width: 784px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #D0D0F9;
+        float: right;
+        margin-top: 24px;
+    }
+    .dropdown-cont-open ul li::marker {
+        font-size: 7px;
+    }
+    .dropdown-cont-open ul li {
+        font-size: 12px;
+    }
+    .dropdown-cont:last-child {
+        border: none;
+    }
+    .dropdown-cont:last-child .vd-arrow-wrap {
+        margin-top: -1%;
+    }
+    /*.dropdown-cont:last-child .dropdown-active {
+        float: right;
+        margin: 20px 2px 0 0;
+    }*/
+
+
+    /* Mobile Applications */
+    .vd-ui-title,
+    .vd-mobile-title {
+        font-size: 28px;
+        margin-left: 24px;
+        margin-top: 24px;
+    }
+    .steps {
+        display: block;
+        /*justify-content: center;*/
+    }
+    .vd-ui-title-cont p {
+        font-size: 40px;
+    }
+    .description-content {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .vd-guide-cont-images {
+        width: 150px;
+    }
+    /*.vd-ill-col {*/
+    /*    height: 600px;*/
+    /*}*/
+    .vd-ui-desc {
+        margin-left: 24px;
+    }
+    .vd-ui-cont-col {
+        padding: 0 15px !important;
+    }
+    .vd-card-coll-top {
+        display: block;
+    }
+    .vd-single-card {
+        max-width: 46%;
+        margin: 5px;
+    }
+
+    .vd-single-mob-card:last-child {
+        max-width: 93%;
+    }
+    .vd-single-mob-card img {
+        width: 89px;
+    }
+    .vd-single-bot-card:first-child {
+        max-width: 91%;
+        margin: 5px;
+    }
+
+    .UX-cards h5 br {
+        display: block;
+    }
+    .UX-cards .vd-card-design-tittle h5, .UX-cards .vd-card-design-tittle h4  {
+        margin-top: 0px;
+    }
+    .mobile_app_card .vd-single-card {
+        max-width: 45%;
+    }
+    .mobile_app_card .vd-single-mob-card:last-child {
+        max-width: 92%;
+    }
+    .mobile_app_card .vd-card-design-tittle h5 {
+        margin-bottom: 30px;
+    }
+    .mobile_app_card .vd-card-mobile-coll {
+        padding-left: initial;
+    }
+    .wp-card .vd-card-design-tittle h5, .vd-card-design-tittle h4 {
+        margin-top: 0px;
+        margin-right: 0px;
+        max-width: inherit;
+        display: flex;
+        justify-content: center;
+    }
+
+
+    /* Services */
+    .vd_services_cont{
+        padding-top: 0;
+    }
+    .vd_services_section {
+        padding: 144px 24px 370px;
+    }
+    .vd-services-coll {
+        margin-top: 50px;
+    }
+    .services-back {
+        bottom: -200px;
+        width: 139%;
+    }
+    .vd-technology-services-tittle,
+    .vd-services-title h3,
+    .vd-services-title h4 {
+        line-height: 38px;
+    }
+    .vd-services-description {
+        font-size: 18px;
+    }
+    .vd-technology-services-sub {
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 100;
+    }
+    .vd-technology-services-link {
+        font-size: 14px;
+        padding-top: 8px;
+    }
+    .vd-single-services.vd-decription-to-right .vd-technology-services-sub {
+        margin-left: 41px;
+    }
+    .vd-technology-design-img,
+    .vd-technology-services-img {
+        width: 48px;
+    }
+
+    /* Web Application */
+
+    .vd-technology-design-sub {
+        font-size: 16px;
+        line-height: 24px;
+        color: #A7A7A7;
+    }
+    .description-content {
+        margin-bottom: 48px;
+    }
+
+    /* Mob Application */
+    .vd_mob_section {
+        padding: 170px 0 0;
+    }
+    .vd-single-design {
+        margin-top: 56px;
+        padding: 0 24px;
+    }
+    .vd-technology-mobile-sub h5, .vd-technology-mobile-sub h4 {
+        margin-top: 24px;
+        margin-bottom: 4px;
+    }
+    .vd-card-mobile-coll {
+        padding-left: 24px;
+        margin-bottom: 0;
+        display: flex;
+    }
+    .vd-card-technology-design-tittle {
+        font-size: 20px;
+        /*max-width: 90px;*/
+        line-height: 28px;
+    }
+    .vd-card-coll-bottom-mob :last-child .vd-card-technology-design-tittle {
+        max-width: unset;
+    }
+    .vd-technology-mobile-tittle {
+        max-width: 344px;
+        line-height: 40px;
+    }
+    .vd_mobile_guide_section {
+        padding: 150px 48px 144px;
+    }
+    .saveMob {
+        margin-top: -11px;
+    }
+    .vd-mob-top-title h2,
+    .vd-mob-top-title h3 {
+        font-size: 32px;
+    }
+    .UX-cards .vd-card-coll-top .vd-card-technology-design-tittle {
+        padding-top: 16px;
+    }
+
+    /* Team */
+    .vd-card-ill-tittle h5,
+    .vd-card-ill-tittle h4{
+        line-height: 12px;
+    }
+    .vd-team-col {
+        min-height: 90vw;
+    }
+
+    /* Thx page */
+
+    .thx-desc {
+        font-size: 14px !important;
+        line-height: 24px;
+        margin-bottom: 24px !important;
+    }
+
+    /* Error page */
+
+    .vd-design-error-title {
+        margin-bottom: 8px;
+        line-height: 40px;
+    }
+    .error-desc {
+        font-size: 16px !important;
+        line-height: 24px;
+        margin-bottom: 24px !important;
+    }
+    .vd-error-services-link,
+    .error-link {
+        padding: 0;
+        margin: 0;
+    }
+    .error-logo .logo-wrap img {
+        width: 150px;
+    }
+    /* Cards */
+    .UX-cards .vd-single-bot-card:first-child {
+        max-width: 93.5%;
+    }
+    .UX-cards .vd-card-design-tittle {
+        padding-left: 40px;
+    }
+    .team-card .vd-card-ill-tittle {
+        display: flex;
+        justify-content: center;
+        padding-top: 0;
+        margin-bottom: 24px;
+    }
+    .team-card .vd-card-ill-tittle h5, .vd-card-ill-tittle h4 {
+        line-height: 32px;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    header .vd-main-header-logo {
+        object-fit: contain;
+        margin: 10px auto 0 0;
+        height: 23px;
+        width: 128px;
+    }
+    /* Home page / Hero section CSS */
+
+    .vd-hero-col {
+        min-height: 155vw;
+    }
+
+    /* Home page / About us CSS */
+
+    .vd-stack-planet {
+        margin-top: 20px;
+    }
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-project {
+        min-height: 580px;
+    }
+    .our-project-title {
+        min-height: 200px;
+    }
+
+    /* Home Page / Our philosophy CSS */
+
+    .our-philosophy-info {
+        padding-top: 0px;
+    }
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 240px;
+    }
+
+    /* Look Book page / Our projects description section */
+
+    .vd_lookbool_our_projects_description_section .sky-spaceship-lookbook {
+        display: block;
+        object-fit: cover;
+        opacity: 0.6;
+        max-height: 50%;
+    }
+    .vd_lookbool_our_projects_description_section .sky-lookbook {
+        max-height: 50%;
+    }
+
+    /* Look Book page / Look Book slider section */
+
+    .vd-featured-projects-container {
+        top: 0;
+    }
+
+    /* Contact Page / Contact form section */
+
+    .contact-form-row {
+        max-width: 90%;
+    }
+    .contact-form-row div {
+        max-width: 100%;
+    }
+    .vd-container.vd-contact-form-container label {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .contact-form-row .wpcf7-text {
+        width: 100%;
+    }
+    .contact_cont {
+        flex-direction: column;
+    }
+    .contact_cont .col-6 {
+        margin-bottom: 56px;
+    }
+
+    /* Inner Page */
+    .single-projects .vd-container .row.client-info-top-row {
+        width: fit-content;
+    }
+
+    /* Inner Page / Website description with collage section CSS */
+
+    .vd_website_description_with_first_collage_section .col-5,
+    .vd_website_description_with_first_collage_section .col-7,
+    .vd_website_description_with_first_collage_section .col-12 {
+        max-width: 96%;
+    }
+
+    /* Inner Page / Last text section CSS */
+
+    .last-text-question {
+        margin-left: 0;
+        padding: 0 24px;
+    }
+    .last-text-response-col {
+        padding: 0 24px;
+        max-width: 100%;
+        flex: none;
+    }
+
+    /* Inner Page / Second slider section CSS */
+
+    .title-second-slider {
+        padding-bottom: 16px;
+    }
+
+    /*Blog   */
+    .row.blog-top {
+        position: relative;
+        margin: 64px 0 0px 0;
+        background: white;
+        border-radius: 16px;
+    }
+
+    .blog-bottom-featured-info {
+        margin: 2px 0 26px 0;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #21197D;
+    }
+    .vd-author-info.blog-author-info:first-letter{
+        font-weight: 400 !important;
+        font-size: 14px !important;
+    }
+    .vd-author-info.blog-author-info {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 20px;
+        color: #17106B;
+    }
+    .vd-archive .vd-category-menu .menu li a {
+        color: #D0D0F9;
+        font-size: 12px;
+    }
+    .vd-recent-title {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+    .vd-short-description, .vd-short-description p {
+        font-size: 14px;
+    }
+    .vd-archive .post_wrap a {
+        position: relative;
+        color: #D0D0F9;
+        margin: 24px 0 0;
+        display: block;
+        font-size: 14px;
+    }
+    .vd-archive .post_wrap a:before {
+        content: '';
+        position: absolute;
+        width: 13px;
+        top: 3px;
+        left: 78px;
+        height: 12px;
+        background-image: url(../image/arrow_link_website.png);
+    }
+    /*Blog: Single Post*/
+
+    .blog_common_section_banner_author {
+        font-size: 12px;
+        color: white;
+        text-align: left;
+        padding-bottom: 34px;
+        font-weight: 600;
+    }
+    .blog_common_section_banner_author:first-letter {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+
+
+
+    /*Contact Page / background-top*/
+    .cont-top{
+        display: none;
+    }
+    .cont-mobile-top{
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        background-color: #17106B;
+    }
+
+    .vd_cont_top_section h2{
+        padding: 130px 0 0 0;
+    }
+    .vd_cont_top_section{
+        padding-bottom: 180px;
+    }
+    /*blog-banner*/
+
+    .blog-recent-title {
+        font-size: 32px;
+        margin: 0 0 0 0;
+    }
+    .blog-short-description p{
+        font-size: 14px;
+        margin: 12px 25px 0 0;
+    }
+    .blog-identify-list {
+        padding: 8px 0 20px 0 !important;
+    }
+    .blog-vd-single-cat-name {
+        font-size: 14px;
+    }
+    .vd-archive .vd-category-menu .menu li {
+        margin: 5px 0 0 4px;
+    }
+
+    /* Our Process */
+
+    .vd_process_section {
+        background-color: #07052b;
+        background-image: url("../image/process_mob.png");
+        background-size: 100% auto;
+        background-position: bottom center;
+        background-repeat: no-repeat;
+        z-index: 23;
+        /*padding: 0 24px;*/
+    }
+    .vd-process-col {
+        height: 150vh;
+    }
+
+    /* Agile */
+    .vd_agile_section {
+        overflow-x: hidden;
+        background-color: #0f0c41;
+        background-image: url("../image/bg-agile-topp-mob.png");
+        background-size: 100%;
+        background-position: bottom center;
+        background-repeat: no-repeat;
+        z-index: 23;
+        position: relative;
+    }
+    .vd-agile-col {
+        padding: 153px 40px 0;
+    }
+
+    .vd-agile-cont-description ol li h5,
+    .vd-agile-cont-description ol li h4,
+    .vd-step-cont-description {
+        font-weight: 100;
+        font-size: 20px;
+        line-height: 28px;
+        color: #E9E4FE;
+        margin-left: 5px;
+    }
+    /* Services */
+    .vd-services-coll {
+        padding: 0 24px;
+    }
+    .vd-guide-title {
+        margin-left: 0;
+        line-height: 48px;
+    }
+    .guide-btn {
+        padding: 12px 24px;
+        font-size: 16px;
+        margin: 24px 0 210px 0;
+        max-width: 197px;
+    }
+    .vd-guide-col {
+        /*height: 438px;*/
+    }
+
+    .vd-guide-col {
+        margin: 170px auto 100px;
+        background-size: 300px;
+    }
+    .vd-applic-col {
+        margin: 0px auto 100px;
+        background-size: 300px;
+    }
+    .vd-pros-col {
+        background-size: 240px;
+        margin-top: 0;
+    }
+    .guide-active {
+        max-width: 250px;
+    }
+    .vd-ui-title,
+    .vd-mobile-title {
+        font-size: 19px;
+        margin-left: 12px;
+        margin-top: 24px;
+        line-height: 28px;
+        margin-bottom: 220px;
+    }
+    .vd-ui-ill-title {
+        margin-bottom: 0px;
+    }
+    .vd-ui-desc {
+        margin-left: 12px;
+    }
+    /*.vd-ill-col {*/
+    /*    height: 600px;*/
+    /*}*/
+    .vd-technology-design-tittle {
+        line-height: 40px;
+        font-size: 32px;
+    }
+    .design-btn {
+        padding: 12px 24px;
+        font-size: 16px;
+        max-width: 153px;
+        margin-top: 0px;
+    }
+    .vd-ui-title-cont p {
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 40px;
+        color: #E9E4FE;
+    }
+    .vd-step-cont-description {
+        margin-left: 0;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 28px;
+        color: #E9E4FE;
+    }
+    .vd-step-cont-description ol li {
+        margin-bottom: 16px;
+    }
+    .sky_cont_img_ui {
+        width: 300px;
+        position: absolute;
+        bottom: -170px;
+    }
+
+    .vd-services-title h3,
+    .vd-services-title h4 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .vd-technology-services-tittle{
+        line-height: 40px;
+    }
+
+    /* UI/UX Design */
+    .vd-design-col {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vw;
+    }
+    .vd-step-cont-description ol li::marker {
+        font-size: 12px;
+    }
+    .vd-step-cont-description ol li {
+        padding-left: 10px;
+    }
+    .card-section {
+        padding: 75px 24px 0 15px;
+    }
+    .vd_ui_cont_section {
+        padding: 144px 24px 130px 29px;
+    }
+    .vd-agile-cont-col {
+        padding: 0 40px;
+    }
+    .vd_ui_section {
+        padding-top: 0;
+    }
+
+    /* Team Augmentation */
+    .vd-ill-col {
+        background-position: center bottom;
+    }
+    .vd-ill-desc {
+        font-size: 14px;
+        line-height: 24px;
+        padding-right: 30px;
+        margin-bottom: 240px;
+    }
+    .vd-team-col {
+        min-height: 110vw;
+    }
+    /* Web Application */
+    .vd_app_section {
+        background-color: #201a6c;
+        background-image: url("../image/web-mob.png");
+        background-size: 100% auto;
+        background-position: top center;
+        background-repeat: no-repeat;
+        z-index: 23;
+    }
+    .vd-apps-col{
+        min-height: 162vw;
+    }
+    /* Mobile Application */
+    .vd_mob_section {
+        background-image: url("../image/mob-mob.png");
+        background-position: bottom center;
+        background-color: #05031f;
+    }
+    .vd-mob-top-description {
+        margin-top: -25px;
+        margin-bottom: 16px;
+    }
+    .vd-dmob-col {
+     min-height: 148vw;
+    }
+    .vd_mobile_guide_section {
+        padding: 0 48px 72px;
+    }
+
+    /* Thx page */
+    .vd_thx_section {
+        background-image: url("../image/thx-mob.png");
+        background-size: 100% auto;
+        height: 130%;
+    }
+
+    /* Error */
+    .vd_error_section {
+        background-size: 170% auto;
+    }
+    .error-logo .logo-wrap img {
+        width: 128px;
+    }
+    .vd-single-card {
+        padding: 16px;
+    }
+    .vd-card-technology-design-tittle {
+        max-width: 90px;
+        padding: 16px 0 0 0;
+    }
+    .UX-cards .vd-single-bot-card:first-child {
+        max-width: 94.5%;
+    }
+    .UX-cards .vd-single-bot-card:first-child div {
+        max-width: initial;
+    }
+    .UX-cards .vd-single-bot-card:nth-child(3) {
+        justify-content: start;
+    }
+    .UX-cards .vd-card-coll-top .vd-card-technology-design-tittle {
+        padding-top: 16px;
+    }
+    .UX-cards .vd-card-design-tittle {
+        padding-left: 25px;
+    }
+    .wp-card .vd-single-card {
+        padding: 16px;
+    }
+    .team-card .vd-card-coll-bottom .vd-single-card:first-child {
+        max-width: 94%;
+    }
+    .dropdown-cont:last-child .vd-arrow-wrap {
+        margin-top: -3%;
+    }
+/*  Footer  */
+    .services_menu {
+        margin-right: 15%;
+    }
+    .footer-titles p:nth-child(2) {
+        margin-left: 20%;
+    }
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+    .vd_cont_top_section {
+        padding-bottom: 145px;
+    }
+
+    /* Home page / Hero section CSS */
+
+    .vd-hero-col {
+        min-height: 720px;
+    }
+
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-project {
+        min-height: 540px;
+    }
+    .our-project-title {
+        min-height: 200px;
+    }
+    .project-dscrptn h3 {
+        width: 60%;
+    }
+
+
+    /* Home Page / Our philosophy CSS */
+    
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 325px;
+    }
+
+    /* Look Book page / Look Book slider section */
+
+    .vd-featured-projects-container {
+        width: 100vw;
+    }
+    .vd-featured-projects-container .featured-projects-box {
+        margin-left: 16px;
+    }
+
+    /* Inner Page / Project banner section CSS */
+
+    .info-container-right {
+        margin: 0 auto;
+    }
+
+    /* Inner Page / That’s where Bean Machine section CSS */
+
+    .single-mobile-screenshot {
+        margin-left: 20px;
+    }
+
+
+    /*Blog Page*/
+
+    .planet-for-blog {
+        top: 73px;
+        right: -9px;
+        max-width: 68%;
+    }
+
+
+    /* Single post */
+
+    .blog-but {
+        justify-content: flex-start;
+        margin: 30px 15px 0;
+    }
+    .single-post-cat{
+        font-size: 12px;
+    }
+    .blog_common_section_banner_button_href {
+        padding-top: 96px;
+    }
+    .blog_common_section_banner_title {
+        font-size: 34px;
+        text-align: left;
+    }
+    .blog_common_section_banner_descpr {
+        padding-bottom: 26px;
+        line-height: 1.2;
+    }
+    .blog_common_section_banner_descpr p {
+        text-align: left;
+    }
+    .blog_common_section_banner_author {
+        font-size: 16px;
+        color: white;
+        text-align: left;
+        padding-bottom: 34px;
+    }
+    .blog_common_section_banner_img {
+        max-height: 200px;
+    }
+    .inner-content-section {
+        padding-top: 80px;
+    }
+    .inner-main_content_section h5 {
+        padding: 56px 24px 16px 24px;
+    }
+    .inner-main_content_section img {
+        padding: 0 0 0 0;
+        margin-top: 30px;
+    }
+    .inner-main_content_section p {
+        padding: 0 24px 8px 24px;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .social-title {
+        margin: 17px 0 0 12px;
+    }
+    .socials-img {
+        margin: 20px 20px;
+    }
+    .inner-content-section-bold-desc {
+        padding-bottom: 40px;
+    }
+
+    /* Services */
+
+    .guide-active {
+        max-width: 250px;
+    }
+    .vd-guide-title {
+        font-size: 26px;
+    }
+    .vd-guide-title {
+        line-height: 40px;
+    }
+    /*.vd-ill-col {*/
+    /*    height: 650px;*/
+    /*}*/
+    .vd-services-coll {
+        margin-top: 10px;
+    }
+
+    /* Cust Wp */
+    .vd_cust_section {
+        background-size: 140% auto;
+    }
+    .vd-cust-col {
+        min-height: 140vw;
+    }
+
+    /* Team */
+    .vd_ill_section {
+        background-size: 140% auto;
+    }
+    .vd-team-col {
+        min-height: 140vw;
+    }
+
+    /* Thx */
+
+    .vd_thx_section {
+        height: 110%;
+    }
+
+    /* Cards */
+    .UX-cards .vd-card-design-tittle {
+        padding-left: 15px;
+    }
+    .mobile_app_card .vd-card-design-tittle h5 {
+        max-width: 270px;
+    }
+    .mobile_app_card .vd-card-mobile-coll {
+        padding-left: 30px;
+        justify-content: flex-start;
+    }
+    .mobile_app_card .vd-card-design-tittle h5 {
+        margin-bottom: 19px;
+    }
+    .wp-card .vd-card-design-tittle h5, .vd-card-design-tittle h4 {
+        margin-left: 12px;
+    }
+    .team-card .vd-card-ill-tittle {
+        display: block;
+        padding-left: inherit;
+    }
+    .saveAppTop {
+        transform: rotate(180deg);
+        background-color: #04062e;
+        padding-bottom: 0;
+    }
+    .saveUI {
+        width: 100%;
+        margin-top: -12px;
+    }
+    .vd_guide_app_section {
+        padding-top: 100px;
+        margin-top: -10px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+
+    /* Home Page / Our Latest Projects CSS */
+
+    .our-project {
+        min-height: 500px;
+    }
+    .our-project-title {
+        min-height: 200px;
+    }
+
+
+    /* Home Page / Our philosophy CSS */
+
+    .vd_our_philosophy .planet_desktop {
+        padding-top: 330px;
+    }
+
+    /* Services */
+
+    .guide-active {
+        max-width: 210px;
+    }
+    /*.vd-ill-col {*/
+    /*    height: 700px;*/
+    /*}*/
+
+    /* Footer */
+
+    footer .vd-foot-menu li a {
+        font-size: 12px;
+    }
+    .dropdown-cont:last-child .vd-arrow-wrap {
+        margin-top: -5%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+
+    /* Header */
+
+    .vd-mobile-menu {
+        display: none!important;
+    }
+
+}
